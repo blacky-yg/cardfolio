@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cardfolio/static/css/main.d9dc4c21.chunk.css",
+    "main.js": "/cardfolio/static/js/main.4cae20ea.chunk.js",
+    "main.js.map": "/cardfolio/static/js/main.4cae20ea.chunk.js.map",
+    "runtime-main.js": "/cardfolio/static/js/runtime-main.d2a9f1f3.js",
+    "runtime-main.js.map": "/cardfolio/static/js/runtime-main.d2a9f1f3.js.map",
+    "static/js/2.59c344ff.chunk.js": "/cardfolio/static/js/2.59c344ff.chunk.js",
+    "static/js/2.59c344ff.chunk.js.map": "/cardfolio/static/js/2.59c344ff.chunk.js.map",
+    "index.html": "/cardfolio/index.html",
+    "static/css/main.d9dc4c21.chunk.css.map": "/cardfolio/static/css/main.d9dc4c21.chunk.css.map",
+    "static/js/2.59c344ff.chunk.js.LICENSE.txt": "/cardfolio/static/js/2.59c344ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2a9f1f3.js",
+    "static/js/2.59c344ff.chunk.js",
+    "static/css/main.d9dc4c21.chunk.css",
+    "static/js/main.4cae20ea.chunk.js"
+  ]
+}

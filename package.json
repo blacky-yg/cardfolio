@@ -2,7 +2,7 @@
   "name": "cardfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://blacky.github.io/cardfolio",
+  "homepage": "https://blacky-yg.github.io/cardfolio",
   "dependencies": {
     "@chakra-ui/react": "^1.0.0",
     "@emotion/react": "^11.0.0",
